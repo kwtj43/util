@@ -1,3 +1,3 @@
-module github.com/kwtj43/taas/util
+module github.com/kwtj43/util
 
 // requires
